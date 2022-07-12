@@ -1,0 +1,15 @@
+.col{
+    background-color: aquamarine;
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 60%;
+}
+.row{
+    position: relative;
+    height: 400px;
+    width: 500px;
+    background-color: darkgreen;
+    left: 50%;
+}
+/* parent and child relation we use relative and abosulte */

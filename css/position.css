@@ -1,0 +1,17 @@
+div{
+    height: 200px;
+    width: 100px;
+}
+.col-1{
+    position: absolute;
+    background-color: darkgreen;
+    top: 10%;
+}
+.col-2{
+    position: absolute;
+    width: 400px;
+    background-color: darkblue;
+    left: 60%;
+}
+/* static */
+/* if we give absloute it wont consider as block or inline it will be free  */

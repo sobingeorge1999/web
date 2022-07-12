@@ -1,0 +1,135 @@
+div{
+    background-color: black;
+    height: 150px;
+    width: 100px;
+    color: black;
+}
+p{
+    color: blue;
+    margin-left: 500px;
+    
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#d1{
+    color: blueviolet;
+}
+#a1{
+    background-color: aqua;
+    margin-left: 367px;
+    margin-top: 64px;
+
+}
+#a2{
+    background-color: bisque;
+    margin-left: 475px;
+    margin-top: -150px;
+}
+#a3{
+     background-color: rgb(212, 127, 22);
+    margin-left: 583px;
+    margin-top: -150px;
+
+}
+#a4{
+    background-color: rgb(248, 69, 37);
+    margin-left: 690px;
+    margin-top: -150px;
+
+}
+#a5{
+    background-color: rgb(75, 141, 241);
+    margin-left: 796px;
+    margin-top: -150px;
+}
+#b1{
+    background-color: rgb(163, 243, 126);
+    margin-left: 258px;
+    margin-top: 49px
+}
+#b2{
+    background-color: rgb(172, 105, 94);
+    margin-left: 367px;
+    margin-top: -150px
+}
+#b3{
+    background-color: rgb(204, 2, 245);
+    margin-left: 475px;
+    margin-top: -150px
+}
+#b4{
+    background-color: rgb(172, 105, 94);
+    margin-left: 583px;
+    margin-top: -150px
+}
+#b5{
+    background-color: rgba(248, 233, 27, 0.582);
+    margin-left: 690px;
+    margin-top: -150px
+}
+#b6{
+    background-color: rgb(236, 39, 9);
+    margin-left: 796px;
+    margin-top: -150px
+}
+#b7{
+    background-color: rgba(183, 243, 115, 0.616);
+    margin-left: 901px;
+    margin-top: -150px
+}
+#c1{
+    background-color: rgb(172, 105, 94);
+    margin-left: 148px;
+    margin-top: 57px
+   
+}
+#c2{
+    background-color: rgb(9, 80, 121);
+    margin-left: 258px;
+    margin-top: -150px
+}
+#c3{
+    background-color: rgb(72, 2, 90);
+    margin-left: 367px;
+    margin-top: -150px
+}
+#c4{
+    background-color: rgb(198, 248, 80);
+    margin-left: 475px;
+    margin-top: -150px
+}
+#c5{
+    background-color: rgb(9, 80, 121);
+    margin-left: 258px;
+    margin-top: -150px
+}
+#c6{
+    background-color: rgb(247, 4, 214);
+    margin-left: 583px;
+    margin-top: -150px
+}
+#c7{
+    background-color: rgb(19, 219, 226);
+    margin-left: 690px;
+    margin-top: -150px
+}
+#c8{
+    background-color: rgb(17, 255, 9);
+    margin-left: 796px;
+    margin-top: -168px
+}
+#c9{
+    background-color: rgb(9, 80, 121);
+    margin-left: 901px;
+    margin-top: -150px
+}
+#c10{
+    background-color: rgb(160, 81, 147);
+    margin-left: 1009px;
+    margin-top: -150px
+}

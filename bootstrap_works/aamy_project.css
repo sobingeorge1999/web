@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dosis:wght@400;500;600&family=Kaushan+Script&family=Oswald:wght@200&family=Permanent+Marker&family=Poppins:wght@200&family=Rubik+Microbe&family=Rubik+Moonrocks&family=Square+Peg&family=Tangerine&display=swap');
+body{
+    font-family: "Dosis",sans-serif ;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+a{
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+section{
+    padding-top: 80px;
+    padding: 80px;
+}
+#hero{
+    background-image: url(./salon/img1.jpg);
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.overlay{
+    position: relative;
+    z-index: 2;
+}
+.overlay::after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: rgba(36,44,48, 0.6);
+    z-index: -1;
+}
+.btn{
+    padding: 14px,32px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+#my1{
+    background-color: rgb(231, 75, 75);
+    border-radius: 100px;
+    color: rgb(228, 206, 206);
+    /* margin-top: 30px; */
+}
+#my1:hover{
+    padding: 1px;
+    border-color: rgb(219, 210, 210);
+    background-color: blueviolet;
+}
+#hair1{
+    color: rgb(253, 166, 4);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 50px;
+}
+#my3{
+    color: rgb(187, 211, 185);
+    font-weight: 600;
+}
+.nav-item:hover{
+    background-color: rgb(96, 230, 118);
+    border-radius: 10px;
+    padding: 2px;
+    text-decoration-line: underline;
+}
+.intro .divider{
+    background-color: aqua;
+    height: 2px;
+    width: 120px;
+    margin: 14px auto;
+}
+#about{
+    background-color: #1e1e1e;
+}
+#why2{
+    height: 300px;
+    width: 100%;
+}
+#check1{
+    list-style: none;
+    line-height: 30px;
+}
+.intr .divider{
+    background-color: rgb(20, 233, 13);
+    height: 2px;
+    width: 120px;
+    margin: 14px auto;
+}
+img{
+    width: 100%;
+}
+#services{
+    background-color: #1e1e1e;
+}
+#spa1{
+    height: 265px;
+}
+.d-block{
+    height: 500px;
+}
+.footer-top{
+    padding-bottom: 60px;
+    padding: 50px;
+    background-color: #1e1e1e;
+}
+.footer-top a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.footer-top a:hover{
+    padding-left: 2px;
+    color: rgb(226, 146, 53);
+}
+#gall1 img{
+    height: 250px;
+    width: 100%;
+}
+.gallery{
+    height: 700px;
+}

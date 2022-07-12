@@ -1,0 +1,17 @@
+div{
+    width: 300px;
+    border: 2px solid rgb(245, 13, 140);
+    background-color: black;
+    color: blue;
+    float: left;
+    height: 630px;
+}
+image{
+    width: 100%;
+    height: 100px;
+}
+p{
+    color: aliceblue;
+    padding: 10px;
+}
+

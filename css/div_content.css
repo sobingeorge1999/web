@@ -1,0 +1,13 @@
+div{
+    width: 600px;
+    background-color: rgb(4, 73, 119);
+    color: black;
+    /* padding-left: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-right: 200px; */
+    /* or we can use  */
+    padding: 40px;
+    border: red solid 3px;
+    border-radius: 300px;
+}

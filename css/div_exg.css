@@ -1,0 +1,18 @@
+.col{
+    width: 250px;
+    height: 400px;
+    border: 2px black solid;
+    float: left;
+}
+.col-2{
+    background-color: aquamarine;
+    margin-left: 20px;
+}
+.col-3{
+    background-color: brown;
+    margin-left: 20px;
+}
+.col-4{
+    background-color: blueviolet;
+    margin-left: 20px;
+}

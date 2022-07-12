@@ -1,0 +1,102 @@
+div{
+    width: 25%;
+    height: 900px;
+    float: left;
+    background-color: black;
+}
+header{
+    width: 100%;
+    background-color: rgb(93, 231, 13);
+    height: 40px;
+}
+h1{
+    margin-left: 42%;
+    color: rgb(233, 63, 12);
+
+}
+
+img{
+    width: 100%;
+    height: 350Px;
+    margin-top: 10%;
+    border-radius: 40Px;
+    padding-left: 5%;
+}
+/* #m1{
+    margin-left: 10%
+} */
+#b1{
+    margin-left: 27%;
+    margin-top:5%;
+    color: rgb(210, 245, 13);
+}
+#b2{
+    margin-left: 7%;
+    margin-top: -7px;
+    color: rgb(210, 245, 13);
+}
+#b3{
+    margin-top: 3px;
+    margin-left: 37%;
+    color: beige;
+    background-color: black;
+}
+#k1{
+    margin-top: 4%;
+    margin-left: 32%;
+    color: rgb(210, 245, 13);
+}
+#k2{
+    margin-top: -2%;
+    margin-left: 7%;
+    color:rgb(210, 245, 13) ;
+}
+#k3{
+    margin-top: 21px;
+    margin-left: 38%;
+    color: beige;
+    background-color: black;
+}
+body{
+    background-image: url(./images/images/food/foodcover.jpeg);
+}
+#p1{
+    margin-top: 4%;
+    margin-left: 37%;
+    color: rgb(210, 245, 13);
+}
+#p2{
+    margin-top: -2%;
+    margin-left: 12%;
+    color:rgb(210, 245, 13) ;
+}
+#p3{
+    margin-top: 5px;
+    margin-left: 38%;
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.801); 
+}
+#c1{
+    margin-left: 20px;
+    width: 89%;
+}
+#c2{
+    margin-top: 4%;
+    margin-left: 23%;
+    color: rgb(210, 245, 13);
+}
+#c3{
+    margin-top: -2%;
+    margin-left: 12%;
+    color:rgb(210, 245, 13) ;
+}
+#c4{
+    margin-top: 5px;
+    margin-left: 38%;
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.801); 
+}
+.col-3{
+    width: 50%;
+    height: 100px;
+}

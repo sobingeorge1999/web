@@ -1,0 +1,31 @@
+h1{
+   color: pink; 
+   
+}
+#a1{
+color: black;
+}
+/* id selctor used by # */
+.c1{
+    color: #4287f5;
+}
+/* class selctor by dot 
+ */
+ /* tag selctor  */
+ /* id selctor  */
+ /* class selector  */
+ div{
+     background-color: rgb(36, 129, 98);
+     text-align: right;
+ }
+
+ /* descendent selector */
+ div p{
+     color: aquamarine;
+ }
+ div p:hover{
+     color: blue;
+ }
+
+ /* pseudo selectors */
+ /* ':' selctors are as pseudo  */
